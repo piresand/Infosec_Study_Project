@@ -10,6 +10,6 @@
 
 - Fundamentos de COBIT® 4.1: https://www.ev.org.br/cursos/fundamentos-de-cobit-41
 
-
+- Ciberseguranca: https://www.eset-la.com/micrositios/treinamento-ciberseguranca/story_html5.html?submissionGuid=68547751-af6d-403b-b42c-ef58337bd775 
 
 
