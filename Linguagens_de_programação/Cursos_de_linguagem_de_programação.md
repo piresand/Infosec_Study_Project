@@ -1,7 +1,5 @@
 - Introdução à Programação Orientada a Objetos (POO): https://www.ev.org.br/cursos/introducao-a-programacao-orientada-a-objetos-poo
 
-- Curso de Lógica de Programação: https://www.youtube.com/playlist?list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd
-
 - Curso de Programação em Linguagem C: https://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R 
 
 - Linguagem de Programação C# - Básico: https://www.ev.org.br/cursos/linguagem-de-programacao-c-basico

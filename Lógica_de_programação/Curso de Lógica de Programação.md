@@ -9,4 +9,5 @@
 
 - Introdução à Programação Orientada a Objetos (POO): https://www.ev.org.br/cursos/introducao-a-programacao-orientada-a-objetos-poo
 
+- Curso de Lógica de Programação: https://www.youtube.com/playlist?list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd
 
