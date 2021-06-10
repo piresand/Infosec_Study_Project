@@ -18,3 +18,9 @@
 
 - Grasshopper, the coding app for beginners: https://grasshopper.app/
 
+- Administrando Bancos de Dados: https://www.ev.org.br/cursos/administrando-bancos-de-dados
+
+- Modelagem de Dados: https://www.ev.org.br/cursos/modelagem-de-dados
+
+- Implementando Bancos de Dados: https://www.ev.org.br/cursos/implementando-bancos-de-dados
+
