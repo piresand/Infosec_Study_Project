@@ -11,3 +11,6 @@
 
 - Curso de Lógica de Programação: https://www.youtube.com/playlist?list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd
 
+- Iniciantes em Programação: https://www.youtube.com/watch?v=O76ZfAIEukE&list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki
+
+
