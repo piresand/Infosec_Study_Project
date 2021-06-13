@@ -24,3 +24,6 @@
 
 - Implementando Bancos de Dados: https://www.ev.org.br/cursos/implementando-bancos-de-dados
 
+- Linguagem C Descomplicada: https://www.youtube.com/playlist?list=PL8iN9FQ7_jt4DJbeQqv--jpTy-2gTA3Cp
+
+- Linguagem C: Básico: https://www.youtube.com/playlist?list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu
