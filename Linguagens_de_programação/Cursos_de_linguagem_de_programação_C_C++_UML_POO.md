@@ -10,7 +10,7 @@
 
 - Programação C++: https://www.youtube.com/playlist?list=PL35Zp8zig6sm5eMWJO45wOTZoPLsSPFfc
 
-- Curso de Programação em Linguagem C: ttps://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R
+- Curso de Programação em Linguagem C: https://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R
 
 - Curso de C++ - A linguagem de programação fundamental para quem quer ser um programador: https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40
 
