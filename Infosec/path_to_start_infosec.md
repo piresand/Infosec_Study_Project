@@ -1,4 +1,4 @@
-#### Path_to_Start_Infosec
+### Path_to_Start_Infosec
 
 Primeiros Passos no Linux - Conceitos e Principais Comandos: https://www.udemy.com/course/primeiros-passos-no-linux/
 
