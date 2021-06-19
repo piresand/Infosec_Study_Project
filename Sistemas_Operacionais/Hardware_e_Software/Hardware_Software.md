@@ -3,5 +3,9 @@
 - Fundamentos de TI: Hardware e Software: https://www.ev.org.br/cursos/fundamentos-de-ti-hardware-e-software
 - Sistemas Operacionais - Conceitos Básicos; https://www.ev.org.br/cursos/sistemas-operacionais-conceitos-basicos
 - Curso de Linux Básico / Certificação LPIC - 1: https://www.youtube.com/playlist?list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7
+- Primeiros Passos no Linux - Conceitos e Principais Comandos: https://www.udemy.com/course/primeiros-passos-no-linux/
+- Programação Shell Script - Automatizando Rotinas no Linux: https://www.udemy.com/course/programacao-shell-script/
+- Linux: Da migração à administração do sistema operacional: https://www.udemy.com/course/curso-de-migracao-para-linux-toca-do-tux/
+- Monitoramento de Servidores Linux: https://www.udemy.com/course/monitoramentolinux/
 - Curso de Engenharia Reversa Online (CERO): https://www.youtube.com/playlist?list=PLIfZMtpPYFP6zLKlnyAeWY1I85VpyshAA
  
