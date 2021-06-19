@@ -29,3 +29,5 @@
 - Linguagem C: Básico: https://www.youtube.com/playlist?list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu
 
 - DÊ SEUS PRIMEIROS PASSOS COM O C#: https://eucapacito.com.br/cursos/programacao/de-seus-primeiros-passos-com-o-c/
+
+- Programação Moderna em C: https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE
