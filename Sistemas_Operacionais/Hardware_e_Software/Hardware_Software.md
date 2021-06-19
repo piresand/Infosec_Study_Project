@@ -3,4 +3,5 @@
 - Fundamentos de TI: Hardware e Software: https://www.ev.org.br/cursos/fundamentos-de-ti-hardware-e-software
 - Sistemas Operacionais - Conceitos Básicos; https://www.ev.org.br/cursos/sistemas-operacionais-conceitos-basicos
 - Curso de Linux Básico / Certificação LPIC - 1: https://www.youtube.com/playlist?list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7
-
+- Curso de Engenharia Reversa Online (CERO): https://www.youtube.com/playlist?list=PLIfZMtpPYFP6zLKlnyAeWY1I85VpyshAA
+ 
