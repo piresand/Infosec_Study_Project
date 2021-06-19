@@ -16,11 +16,22 @@
 
 - Curso de Engenharia Reversa Online (CERO): https://www.youtube.com/playlist?list=PLIfZMtpPYFP6zLKlnyAeWY1I85VpyshAA
 
-- Análise de Malware Online (AMO): https://www.mentebinaria.com.br/treinamentos/an%C3%A1lise-de-malware-online-amo-r11/
+- Kali Linux - Sec17: https://club.sec17.com/cursos/kali-linux-beginner/
 
-- Curso de Exploração de Binários (CEB): https://www.mentebinaria.com.br/treinamentos/curso-de-explora%C3%A7%C3%A3o-de-bin%C3%A1rios-ceb-r8/
+- Start Kali Linux, Ethical Hacking and Penetration Testing: https://www.udemy.com/course/ethical-hacker/
+
+- Active Directory Pentesting With Kali Linux - Red Team: https://www.udemy.com/course/active-directory-pentesting-with-kali-linux-read-team-hacking/ 
 
 - Pythonicos: https://www.mentebinaria.com.br/treinamentos/pythonicos-r7/
 
+- Análise de Malware Online (AMO): https://www.mentebinaria.com.br/treinamentos/an%C3%A1lise-de-malware-online-amo-r11/
+
+- Curso de Exploração de Binários (CEB): https://www.mentebinaria.com.br/treinamentos/curso-de-explora%C3%A7%C3%A3o-de-bin%C3%A1rios-ceb-r8/ 
+
 - Curso de Ghidra: https://www.mentebinaria.com.br/treinamentos/curso-de-ghidra-r9/
+
+- EHC2 - Ethical Hacking Command and Control:  https://www.youtube.com/watch?v=bUqu8fh7xUg
+
+- FORMAF - Minicurso Fundamentos de Análise de Memória:  https://www.youtube.com/watch?v=Iz0Bh7L3iYM 
+
  
