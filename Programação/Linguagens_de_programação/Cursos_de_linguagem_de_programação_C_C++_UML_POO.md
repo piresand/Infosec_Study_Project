@@ -4,6 +4,8 @@
 
 - Linguagem de Programação C# - Básico: https://www.ev.org.br/cursos/linguagem-de-programacao-c-basico
 
+- Programação Moderna em C: https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE
+
 - Linguagem de Programação C# - Avançado: https://www.ev.org.br/cursos/linguagem-de-programacao-c-avancado
 
 - Linguagem C - Curso de Programação Completo para Iniciantes e Profissionais - Videoaulas da Flatech TI: https://www.youtube.com/playlist?list=PLrqNiweLEMonijPwsHckWX7fVbgT2jS3P
