@@ -1,4 +1,4 @@
 - Curso gratuito Microsoft Azure: https://www.portalgsti.com.br/cursos/curso-gratuito-microsoft-azure/
-- Curso Gratuito Desenvolvimento de Aplicações em Nuvem: https://www.portalgsti.com.br/cursos/curso-gratuito-desenvolvimento-nuvem/
-- Curso gratuito System Center Virtual Machine Manager (SCVMM): https://www.portalgsti.com.br/cursos/curso-systemcenter-scvmm/
-
+- Cloud Computing (Computação em nuvens): https://www.youtube.com/playlist?list=PLNA2napcAOuTMa9p_1Ru7Iu6kEvu0brXc
+- Microsoft Azure Preparatório Certificação: https://www.youtube.com/playlist?list=PLurEeBAuohRwzYu6IhcWCWftd6qOcf-DS
+- AWS do Zero ao Expert: https://www.youtube.com/playlist?list=PLtL97Owd1gkQ0dfqGW8OtJ-155Gs67Ecz
