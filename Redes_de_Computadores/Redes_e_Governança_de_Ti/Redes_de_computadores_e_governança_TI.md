@@ -1,6 +1,6 @@
 - TCP-IP: https://www.youtube.com/watch?v=girCBB_mMJU&list=PLB48589AA91D4FF1A
 
-- Curso de Linux Básico / Certificação LPIC - 1: https://www.youtube.com/playlist?list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7
+- CONCEITOS BÁSICOS DA SEGURANÇA DE REDE: https://eucapacito.com.br/cursos/programacao/conceitos-basicos-da-seguranca-de-rede/
 
 - Segurança em Tecnologia da Informação; https://www.ev.org.br/cursos/seguranca-em-tecnologia-da-informacao
 
