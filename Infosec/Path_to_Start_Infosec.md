@@ -34,7 +34,7 @@
 
 - FORMAF - Minicurso Fundamentos de Análise de Memória:  https://www.youtube.com/watch?v=Iz0Bh7L3iYM 
 
--Introdução ao Mitre Att&ck e ao Cyber Kill Chain: https://www.youtube.com/playlist?list=PLTgqI1gASO7RV7BFTfH8xXnuykwHKPl24
+- Introdução ao Mitre Att&ck e ao Cyber Kill Chain: https://www.youtube.com/playlist?list=PLTgqI1gASO7RV7BFTfH8xXnuykwHKPl24
 
 
  
