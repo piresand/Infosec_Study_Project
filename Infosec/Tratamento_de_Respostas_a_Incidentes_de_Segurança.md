@@ -1,4 +1,4 @@
-### Tratamento de Incidentes de Seguranca na Internet
+### Tratamento de Respostas a Incidentes de Segurança
 
 Criando um Grupo de Respostas a Incidentes de Segurança em Computadores: Um Processo para Iniciar a Implantação: https://www.cert.br/certcc/csirts/Creating-A-CSIRT-br.html
 
