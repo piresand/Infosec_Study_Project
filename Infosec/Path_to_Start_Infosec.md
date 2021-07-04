@@ -1,6 +1,10 @@
 ### Path_to_Start_Infosec
 - Learning Process - hackthebox: https://academy.hackthebox.eu/module
 
+- Fundamentos de Gestão de Tempo: https://www.linkedin.com/learning/fundamentos-de-gestao-de-tempo/bem-vindo
+
+- Como Melhorar o Foco: https://www.linkedin.com/learning/como-melhorar-o-foco/bem-vindos
+
 - Boas Práticas de Segurança da Informação para Sua Empresa: https://www.udemy.com/course/empresa-mais-segura/learn/lecture/26947908#overview
 
 - Fundamentos de Gestão Ágil: https://www.linkedin.com/feed/update/urn:li:lyndaCourse:2929551/
@@ -8,10 +12,6 @@
 - Metodologias Ageis - Aprenda Scrum: https://www.udemy.com/course/metodologias-ageis-scrum-na-pratica-uniciv/learn/lecture/27080014?start=30#overview
 
 - Fundamentos de Gestão de Projetos: https://www.linkedin.com/feed/update/urn:li:lyndaCourse:733961/
-
-- Fundamentos de Gestão de Tempo: https://www.linkedin.com/learning/fundamentos-de-gestao-de-tempo/bem-vindo
-
-- Como Melhorar o Foco: https://www.linkedin.com/learning/como-melhorar-o-foco/bem-vindos
 
 - Delegação de Tarefas à Equipe: https://www.linkedin.com/learning/delegacao-de-tarefas-a-equipe/boas-vindas
 
