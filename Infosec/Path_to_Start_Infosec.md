@@ -1,4 +1,61 @@
 ### Path_to_Start_Infosec
+- Learning Process - hackthebox: https://academy.hackthebox.eu/module
+
+- Boas Práticas de Segurança da Informação para Sua Empresa: https://www.udemy.com/course/empresa-mais-segura/learn/lecture/26947908#overview
+
+- Fundamentos de Gestão Ágil: https://www.linkedin.com/feed/update/urn:li:lyndaCourse:2929551/
+
+- Metodologias Ageis - Aprenda Scrum: https://www.udemy.com/course/metodologias-ageis-scrum-na-pratica-uniciv/learn/lecture/27080014?start=30#overview
+
+- Fundamentos de Gestão de Projetos: https://www.linkedin.com/feed/update/urn:li:lyndaCourse:733961/
+
+- Fundamentos de Gestão de Tempo: https://www.linkedin.com/learning/fundamentos-de-gestao-de-tempo/bem-vindo
+
+- Como Melhorar o Foco: https://www.linkedin.com/learning/como-melhorar-o-foco/bem-vindos
+
+- Delegação de Tarefas à Equipe: https://www.linkedin.com/learning/delegacao-de-tarefas-a-equipe/boas-vindas
+
+- Introductory Networking: https://tryhackme.com/room/introtonetworking
+
+- Introdução à Cibersegurança: https://www.youtube.com/watch?v=0xS8so669hs
+
+- Learning Cyber Security: https://tryhackme.com/room/beginnerpathintro
+
+- Introdução as Técnicas de Hacking: https://www.udemy.com/course/introducao-as-tecnicas-de-hacking/
+
+- Cursos de Segurança da Informação e Hacking: 
+* 1º Curso ▶ https://www.udemy.com/course/seguranc...
+* 2º Curso ▶ https://www.udemy.com/course/seguranc...
+
+- Fundamentos de Ethical Hacking: curso prático: https://www.udemy.com/course/fundamentos-de-ethical-hacking/#instructor-1
+
+- Ferramentas para PenTest: https://www.udemy.com/course/draft/39...
+
+- Primeiros Passos no Linux - Conceitos e Principais Comandos: https://www.udemy.com/course/primeiros-passos-no-linux/
+
+- Microsoft Windows Server 2019 [COMPLETO]: https://www.udemy.com/course/windows-server-2019-1/
+
+- Formação em Redes de Computadores - Módulo 1: https://www.udemy.com/course/redes-de-computadores-modulo-1/
+
+- Arquitetura de Redes: https://www.udemy.com/course/redes-modulo-1/
+
+- Redes TCP/IP: https://www.udemy.com/course/redes-tcpip/
+
+- Algoritmos e Lógica de Programação do básico ao avançado: https://www.udemy.com/course/algoritmos-e-logica-de-programacao-essencial/
+
+- Algoritmos e Lógica de Programação 2021 - O Curso COMPLETO: https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/
+
+- Bancos de Dados SQL e NoSQL do básico ao avançado: https://www.udemy.com/course/curso-de-banco-de-dados-do-basico-ao-avancado/
+
+- O curso completo de Banco de Dados e SQL, sem mistérios!: https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/
+
+- Aprenda a Desenvolver Ferramentas de Segurança da Informação em Python: https://www.udemy.com/course/python-p...
+
+- Curso de Python 3 do Básico Ao Avançado (com projetos reais): https://www.udemy.com/course/python-3-do-zero-ao-avancado/
+
+- Hacker Ético Profissional com Kali Linux 2021: https://www.udemy.com/course/pentest-completo-na-pratica-com-kali-linux/
+
+- PFSense: Solução completa de firewall: https://www.udemy.com/course/firewall-pfsense/
 
 - Primeiros Passos no Linux - Conceitos e Principais Comandos: https://www.udemy.com/course/primeiros-passos-no-linux/
 
