@@ -24,6 +24,7 @@
 - Introdução as Técnicas de Hacking: https://www.udemy.com/course/introducao-as-tecnicas-de-hacking/
 
 - Cursos de Segurança da Informação e Hacking:
+
  1º Curso ▶ https://www.udemy.com/course/seguranca-da-informacao-e-hacking/
  2º Curso ▶ https://www.udemy.com/course/seguranca-da-informacao-e-hacking-2/
 
