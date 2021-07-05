@@ -49,9 +49,9 @@
 
 - O curso completo de Banco de Dados e SQL, sem mistérios!: https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/
 
-- Aprenda a Desenvolver Ferramentas de Segurança da Informação em Python: https://www.udemy.com/course/python-p...
-
 - Curso de Python 3 do Básico Ao Avançado (com projetos reais): https://www.udemy.com/course/python-3-do-zero-ao-avancado/
+
+- Python Para Hackers: https://www.udemy.com/course/python-para-hackers/
 
 - Hacker Ético Profissional com Kali Linux 2021: https://www.udemy.com/course/pentest-completo-na-pratica-com-kali-linux/
 
