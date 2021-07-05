@@ -23,13 +23,13 @@
 
 - Introdução as Técnicas de Hacking: https://www.udemy.com/course/introducao-as-tecnicas-de-hacking/
 
-- Cursos de Segurança da Informação e Hacking: 
-* 1º Curso ▶ https://www.udemy.com/course/seguranc...
-* 2º Curso ▶ https://www.udemy.com/course/seguranc...
+- Cursos de Segurança da Informação e Hacking:
+ 1º Curso ▶ https://www.udemy.com/course/seguranca-da-informacao-e-hacking/
+ 2º Curso ▶ https://www.udemy.com/course/seguranca-da-informacao-e-hacking-2/
 
 - Fundamentos de Ethical Hacking: curso prático: https://www.udemy.com/course/fundamentos-de-ethical-hacking/#instructor-1
 
-- Ferramentas para PenTest: https://www.udemy.com/course/draft/39...
+- 25 Ferramentas para PenTest: https://www.udemy.com/course/25-ferramentas-para-pentest/
 
 - Primeiros Passos no Linux - Conceitos e Principais Comandos: https://www.udemy.com/course/primeiros-passos-no-linux/
 
