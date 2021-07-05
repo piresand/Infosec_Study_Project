@@ -24,9 +24,8 @@
 - Introdução as Técnicas de Hacking: https://www.udemy.com/course/introducao-as-tecnicas-de-hacking/
 
 - Cursos de Segurança da Informação e Hacking:
-
- 1º Curso ▶ https://www.udemy.com/course/seguranca-da-informacao-e-hacking/
- 2º Curso ▶ https://www.udemy.com/course/seguranca-da-informacao-e-hacking-2/
+- 1º Curso ▶ https://www.udemy.com/course/seguranca-da-informacao-e-hacking/
+- 2º Curso ▶ https://www.udemy.com/course/seguranca-da-informacao-e-hacking-2/
 
 - Fundamentos de Ethical Hacking: curso prático: https://www.udemy.com/course/fundamentos-de-ethical-hacking/#instructor-1
 
