@@ -1,5 +1,5 @@
 ### Path_to_Start_Infosec
-- Learning Process - hackthebox: https://academy.hackthebox.eu/module
+- Learning Process - hackthebox: https://academy.hackthebox.eu/course/preview/learning-process
 
 - Fundamentos de Gestão de Tempo: https://www.linkedin.com/learning/fundamentos-de-gestao-de-tempo/bem-vindo
 
