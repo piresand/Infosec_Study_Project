@@ -31,10 +31,10 @@ Detecting and Defending against Cyber Threatsh: https://www.youtube.com/playlist
 Boas Práticas de Segurança da Informação para Sua Empresa: https://www.udemy.com/course/empresa-mais-segura/
 
 Free Short Course - Information Security Incident Handling:
-https://www.youtube.com/watch?v=xV4qATtR4p4
-https://www.youtube.com/watch?v=97rBUZjQUao
-https://www.youtube.com/watch?v=pVRpkHz5nBA
-https://www.youtube.com/watch?v=SuFxlVJCQpQ
+- https://www.youtube.com/watch?v=xV4qATtR4p4
+- https://www.youtube.com/watch?v=97rBUZjQUao
+- https://www.youtube.com/watch?v=pVRpkHz5nBA
+- https://www.youtube.com/watch?v=SuFxlVJCQpQ
 
 CSS2018LAS8: Incident Handling Process - SANS: https://www.youtube.com/watch?v=wP08bImLU6Q
 
