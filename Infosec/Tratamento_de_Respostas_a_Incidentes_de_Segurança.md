@@ -36,9 +36,9 @@ Free Short Course - Information Security Incident Handling:
 - https://www.youtube.com/watch?v=pVRpkHz5nBA
 - https://www.youtube.com/watch?v=SuFxlVJCQpQ
 
-CSS2018LAS8: Incident Handling Process - SANS: https://www.youtube.com/watch?v=wP08bImLU6Q
+Incident Handling Process - SANS: https://www.youtube.com/watch?v=wP08bImLU6Q
 
-CSS2017 Session 7 SANS Training - Incident Handling Process: https://www.youtube.com/watch?v=76fuTjzuiLg
+SANS Training - Incident Handling Process: https://www.youtube.com/watch?v=76fuTjzuiLg
 
 CURSOS PAGOS: 
 
