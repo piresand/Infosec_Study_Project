@@ -26,7 +26,7 @@ ECIH - Certified Incident Handler - Acadi-TI + EC-Council: https://www.youtube.c
 
 Cyber Security Incident Response: https://www.udemy.com/course/ksc_learn-incident-response/
 
-Detecting and Defending against Cyber Threatsh: ttps://www.youtube.com/playlist?list=PLGB2uErtks4qJaD20FBhSxtexU6s5_O3z
+Detecting and Defending against Cyber Threatsh: https://www.youtube.com/playlist?list=PLGB2uErtks4qJaD20FBhSxtexU6s5_O3z
 
 Boas Práticas de Segurança da Informação para Sua Empresa: https://www.udemy.com/course/empresa-mais-segura/
 
@@ -40,7 +40,7 @@ CSS2018LAS8: Incident Handling Process - SANS: https://www.youtube.com/watch?v=w
 
 CSS2017 Session 7 SANS Training - Incident Handling Process: https://www.youtube.com/watch?v=76fuTjzuiLg
 
-PAGOS: 
+CURSOS PAGOS: 
 
 Incident Response for Cyber Professionals: https://www.udemy.com/course/incident-response-for-cyber-professionals/
 
