@@ -7,7 +7,6 @@ Information security study track, ethical hacking, cybersecurity with a red team
 
 
 
-
-
-### LinkedIn 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="andre-s-pires"><a class="LI-simple-link" href='https://br.linkedin.com/in/andre-s-pires?trk=profile-badge'>André Pires</a></div>
+### Connect with me:
+[![E-mail Badge](https://img.shields.io/badge/Email-andrepires.corporativo%40gmail.com-green)](andrepires.corporativo@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-s-pires)](https://br.linkedin.com/in/andre-s-pires?trk=profile-badge)  
