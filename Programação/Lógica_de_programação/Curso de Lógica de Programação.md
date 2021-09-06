@@ -9,5 +9,8 @@
 
 - Introdução à Programação Orientada a Objetos (POO): https://www.ev.org.br/cursos/introducao-a-programacao-orientada-a-objetos-poo
 
+- Curso de lógica de programação: http://dev.rbtech.info/curso-logica-programacao-aula-01/
+
+- Curso Básico - Aprendendo a Programar: https://www.mentebinaria.com.br/studying-materials/basico-para-computacao/l%C3%B3gica-de-programa%C3%A7%C3%A3o/aprendendo-a-programar-r33/
 
 
